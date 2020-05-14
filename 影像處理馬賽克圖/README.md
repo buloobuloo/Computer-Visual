@@ -1,1 +1,11 @@
-
+將圖片轉換成馬賽克圖
+====
+step1.找尋大量圖片庫 
+<br>
+自動爬圖片：https://github.com/ultralytics/flickr_scraper
+<br>
+step2.樣本圖 
+![](https://github.com/buloobuloo/Visual/blob/master/%E5%BD%B1%E5%83%8F%E8%99%95%E7%90%86%E9%A6%AC%E8%B3%BD%E5%85%8B%E5%9C%96/IMG_4859.jpeg)
+<br>
+step3.成果圖
+![](https://github.com/buloobuloo/Visual/blob/master/%E5%BD%B1%E5%83%8F%E8%99%95%E7%90%86%E9%A6%AC%E8%B3%BD%E5%85%8B%E5%9C%96/out%20(2).jpg)
